@@ -8,16 +8,12 @@
     background-image: url(../images/banner/banner1.png);
     background-repeat: no-repeat;
     background-size: cover;
-    
-    
-  
-    
-    
+       
 
 }
 .header-contain{
         text-align: right;
-        margin: 216px 230px 364px 900px;
+        margin:216px 230px 364px 700px;
         padding-top: 300px;
         width: 600px;
         margin-top: auto;
